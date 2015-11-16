@@ -108,7 +108,7 @@ Then open **Module Build Gradle** and add the *SDK library* by writing this line
 
 Activities and Layouts
 -
-Open *AndroidManifest.xml* and add these lines of code inside ```<application></application>``` tags:
+Open *AndroidManifest.xml* and add these lines of code inside `<application></application>` tags:
 ```
 <activity
       android:name=".MainActivity"
