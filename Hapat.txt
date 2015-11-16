@@ -1,9 +1,0 @@
-1. Fillimisht krijohet nje projekt i ri, blank Activity.
-2. Ketij projekti i shtohet nje aktivitet tjeter, Login Activity.
-3. Hapet developers.facebook.com dhe  krijohet nje app i ri.
-4. Merret mavenCentral bashke me librarine
-5. Futet direktoria e aktiviteteve
-6. Shtohet funksioni i printimit te hash key
-7. Manifest, uses Internet
-8. FaceBookActivity manifest
-9. App id tek strings.	
